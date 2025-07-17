@@ -1,3 +1,3 @@
 # Minsun Jung 🤗
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaa4591)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdalstjszzz98)
