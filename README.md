@@ -1,14 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Minsun%20Jung&fontSize=75)
 
-<!-- GitHub Stats -->
 <div align="center">
-  
-  <!-- Top Languages -->
-  <img src="-readme-stats.vercel.app/api?username=hula32&show_icons=true&theme=radical&count_private=true" height="165" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdalstjszzz "height="165" />
+  <!-- Solved.ac Badge -->
+  <br/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdalstjszzz" height="165" />
+
 </div>
-<!-- Solved.ac Badge -->
-<br/><br/>
 
 ## 💪 Tech Stack
 
@@ -45,4 +42,10 @@
 - 1학기 -  Python, Vue.js, Django 교육 이수
 - 실전 중심 협업 환경 경험  
 - 다양한 문제 해결 능력 향상 중
+
+<br/><br/>
+## 🌟 Featured Project
+
+### 🌙 DreamTale - AI Children's Storybook Generator
+AI가 스토리와 그림을 생성해주는 인터랙티브 동화책 플랫폼
 
