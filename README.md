@@ -1,4 +1,5 @@
-# Minsun Jung 🤗
+<!-- GitHub Stats -->
+<div align="center">
 
 <p align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hula32&show_icons=true&theme=radical&count_private=true">
